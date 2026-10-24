@@ -1,4 +1,4 @@
-# Roberto Alamino
+# Roberto C. Alamino
 ### AI · Machine Learning · Data Science · Physics
 
 I am a physicist and data scientist with experience spanning academic research, university teaching and industrial applications.
@@ -35,3 +35,7 @@ C source code for agent-based simulations investigating antimicrobial resistance
 - Former Chief Data Scientist and Partner at Brainiall.
 
 Based in Birmingham, UK. Interested in research collaborations and applied AI, machine learning and data science opportunities.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/robertoalamino/)
