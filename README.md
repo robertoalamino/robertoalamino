@@ -1,7 +1,7 @@
 # Roberto C. Alamino
 ### AI · Machine Learning · Data Science · Physics
 
-I am a physicist and data scientist with experience spanning academic research, university teaching and industrial applications.
+I am a physicist and data scientist with over 20 years of experience in research, mathematical modelling and machine learning, spanning academia and industry.
 
 My work connects statistical physics, mathematical modelling and machine learning to understand complex systems and solve practical problems. My industrial experience includes developing AI solutions for mineral processing, alongside research in areas such as healthcare and antimicrobial resistance.
 
