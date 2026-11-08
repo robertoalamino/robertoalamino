@@ -17,9 +17,11 @@ A developing machine learning project investigating credit risk, chronological v
 
 ### Agent-based modelling of antimicrobial resistance
 
-[AMR](https://github.com/robertoalamino/AMR)
+[AMR reproducibility review](https://github.com/robertoalamino/AMR/tree/reproducibility-review)
 
-C source code for agent-based simulations investigating antimicrobial resistance.
+Agent-based simulations in C exploring how antimicrobial resistance evolves during treatment and how it changes after treatment ends. The reproducibility review includes the historical baseline, a corrected implementation, and instructions for rerunning simulations and regenerating figures.
+
+[Versioned release and data](https://github.com/robertoalamino/AMR/releases/tag/reproducibility-v1.0.0) · [Original code](https://github.com/robertoalamino/AMR/tree/master)
 
 ## Areas of interest
 
